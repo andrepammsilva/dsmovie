@@ -10,5 +10,4 @@ public class DsmovieApplication {
 		SpringApplication.run(DsmovieApplication.class, args);
 	}
 
-	
 }
